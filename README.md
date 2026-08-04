@@ -1,222 +1,139 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:00F5D4&height=220&section=header&text=Senthilvelan%20Prabakaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=Senthilvelan%20Prabakaran&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=62&descSize=16&fontFamily=Poppins"/>
 
-<!-- Typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=%3E+Building+intelligent+systems...;%3E+Training+neural+networks...;%3E+Engineering+the+future+with+AI;%3E+Machine+Learning+%7C+Computer+Vision;%3E+Generative+AI+%7C+RAG+%7C+LLMs;%3E+Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1200&color=1E3A8A&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Computer+Vision+%7C+Full-Stack+Development;Turning+data+into+reliable%2C+production-ready+systems;Final+Year+B.Tech%2C+AI+%26+Data+Science"/>
 
 <br/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Status-Final%20Year%20B.Tech%20AI%20%26%20DS-2563EB?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20CV-00F5D4?style=for-the-badge&logo=tensorflow&logoColor=black"/>
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-FF3CAC?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=senthilvelanprabakaran-alt&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/senthilvelanprabakaran-alt?style=for-the-badge&color=00F5D4&labelColor=black"/>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-1E3A8A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-1E3A8A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-16A34A?style=flat-square"/>
+<a href="https://www.linkedin.com/in/senthilvelan-prabakaran-486051382/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:senthilvelanprabakaran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E3A8A?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## ⚡ About Me
+## About
 
-```python
-class Senthilvelan:
-    def __init__(self):
-        self.name = "Senthilvelan Prabakaran"
-        self.role = "AI & Data Science Student"
-        self.year = "Final Year, B.Tech"
-        self.focus = ["Machine Learning", "Computer Vision", "Generative AI", "Full Stack Dev"]
-        self.current_goal = "Building intelligent software that solves real-world problems"
+Final-year B.Tech student in Artificial Intelligence and Data Science, focused on building practical, production-oriented software rather than purely academic exercises. My work spans machine learning, computer vision, and full-stack development, with an emphasis on solving real-world problems in areas like agriculture, healthcare, and industrial manufacturing.
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent! 🚀")
+I care about shipping things that actually work end-to-end — from model to interface to deployment.
 
-me = Senthilvelan()
-me.say_hi()
-```
-
-<table>
-<tr>
-<td>
-
-- 🔭 Currently building **AI-powered, real-world applications** — from crop price alerts to threat forecasting
-- 🌱 Currently exploring **Generative AI, RAG pipelines & LLM integrations**
-- 👯 Looking to collaborate on **AI/ML, Computer Vision & Full-Stack projects**
-- 🤔 Looking for help with **scaling ML models into production**
-- 💬 Ask me about **Python, Flask, ML, Computer Vision, or full-stack builds**
-- ⚡ Fun fact: **I turn ideas into working prototypes faster than my coffee gets cold ☕**
-
-</td>
-</tr>
-</table>
+- **Currently building:** AI-driven applications addressing real-world use cases, including agricultural pricing tools and cybersecurity forecasting systems
+- **Currently exploring:** Generative AI, Retrieval-Augmented Generation (RAG), and LLM integration patterns
+- **Open to:** Collaboration on AI/ML, computer vision, and full-stack projects; internship and full-time AI/ML roles
+- **Ask me about:** Python, Flask, applied machine learning, computer vision pipelines, or full-stack system design
 
 ---
 
-## 🧬 Tech Stack
+## Technical Skills
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 👨‍💻 Languages
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
 
-### 🌐 Frontend & Design
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma"/>
 
-### ⚙️ Backend
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs"/>
 
-### 🗄 Database
+</td>
+<td valign="top" width="50%">
+
+**Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
 
-### 🤖 AI / ML / Data
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch"/>
+**Machine Learning & Data**
 <br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<br/>
+Scikit-Learn · Pandas · NumPy · Matplotlib · Power BI
 
-### 🎮 3D / Game / Design Tools
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,figma"/>
-
-### 🛠 Tools & Platforms
+**Tools & Platforms**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ♻️ LCA Metal
-AI-powered Life Cycle Assessment platform for metal manufacturing.
-
-- 🌍 Sustainability & carbon emission analysis
-- 📈 ML-based emission prediction
-- 📊 Interactive dashboard
-
-**Tech:** Python • Flask • Machine Learning • PostgreSQL
-
-</td>
-<td width="50%">
-
-### 🤖 EON Chatbot
-A multilingual AI chatbot for intelligent conversations.
-
-- 💬 Natural language interaction
-- 🌍 Multi-language support
-- ⚡ Fast, AI-powered backend
-
-**Tech:** Python • Flask • HTML • CSS • JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤟 ISL Project
-Indian Sign Language recognition system powered by Computer Vision.
-
-- 👁 Real-time gesture recognition
-- 🧠 Deep learning classification
-- ♿ Built for accessibility
-
-**Tech:** Python • OpenCV • TensorFlow
-
-</td>
-<td width="50%">
-
-### 🩺 SkinAI
-Deep learning model for skin disease classification.
-
-- 🧬 CNN-based medical image classification
-- 🖼 Advanced image processing pipeline
-- 🩻 Assistive diagnostic tool
-
-**Tech:** TensorFlow • Python • OpenCV
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌾 Mandi Vilai (மண்டி விலை)
-Bilingual (Tamil/English) crop price alert platform for farmers.
-
-- 📩 Email OTP authentication
-- 🔔 Real-time price-change alerts
-- 🇮🇳 Built for Indian agricultural context
-
-**Tech:** Python • Flask • MySQL • Resend API
-
-</td>
-<td width="50%">
-
-### 📚 Skill Learn
-Full-stack skill-learning and practice platform.
-
-- 🎯 Weekly tests & XP tracking
-- 🎥 Integrated video-based learning
-- 🔐 Secure JWT authentication
-
-**Tech:** Python • Flask • MySQL • JWT
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🎮 Flappy Bird
-Classic browser-based game rebuilt in Python — a fun dive into game-loop logic and collision detection.
-
-**Tech:** Python
 
 </td>
 </tr>
 </table>
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=senthilvelanprabakaran-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilvelanprabakaran-alt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilvelanprabakaran-alt&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=senthilvelanprabakaran-alt&theme=darkhub&no-frame=true&row=1&column=7"/>
-</div>
-
-### 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilvelanprabakaran-alt&theme=tokyo-night&hide_border=true"/>
-</div>
+**Additional:** Unity · Unreal Engine · Figma
 
 ---
 
-## 🐍 Contribution Snake
+## Featured Projects
 
+### ♻️ LCA Metal
+AI-powered Life Cycle Assessment platform for metal manufacturing, providing carbon emission prediction and sustainability analytics through an interactive dashboard.
+`Python` · `Flask` · `Machine Learning` · `PostgreSQL`
+
+### 🤖 EON Chatbot
+Multilingual AI chatbot supporting natural language interaction across multiple languages, built on a lightweight, fast backend.
+`Python` · `Flask` · `HTML/CSS` · `JavaScript`
+
+### 🤟 ISL Project
+Real-time Indian Sign Language recognition system using computer vision and deep learning to improve accessibility.
+`Python` · `OpenCV` · `TensorFlow`
+
+### 🩺 SkinAI
+CNN-based deep learning model for skin disease classification from medical images, built as an assistive diagnostic aid.
+`TensorFlow` · `Python` · `OpenCV`
+
+### 🌾 Mandi Vilai (மண்டி விலை)
+Bilingual (Tamil/English) crop price alert platform for farmers, featuring email OTP authentication and real-time price-change notifications.
+`Python` · `Flask` · `MySQL` · `Resend API`
+
+### 📚 Skill Learn
+Full-stack skill-learning platform with weekly assessments, XP-based progress tracking, and secure JWT authentication.
+`Python` · `Flask` · `MySQL` · `JWT`
+
+### 🎮 Flappy Bird
+Browser-based recreation of the classic game, built to explore game-loop logic and collision detection in Python.
+`Python`
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=senthilvelanprabakaran-alt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilvelanprabakaran-alt&layout=compact&theme=default&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilvelanprabakaran-alt&theme=default&hide_border=true" height="165"/>
+
+</div>
+
+<details>
+<summary><strong>Trophies</strong></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=senthilvelanprabakaran-alt&theme=flat&no-frame=true&row=1&column=7"/>
+</div>
+</details>
+
+<details>
+<summary><strong>Contribution Activity</strong></summary>
+<br/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilvelanprabakaran-alt&theme=minimal&hide_border=true"/>
+</div>
+</details>
+
+<details>
+<summary><strong>Contribution Snake</strong></summary>
+<br/>
 <div align="center">
 
 <!--START_SECTION:snake-->
@@ -224,33 +141,23 @@ Classic browser-based game rebuilt in Python — a fun dive into game-loop logic
 <!--END_SECTION:snake-->
 
 </div>
-
-> Powered by the `snake.yml` GitHub Action below — it auto-updates on every push and daily via cron.
+<p align="center"><sub>Auto-generated by the <code>snake.yml</code> GitHub Action on push and daily via cron.</sub></p>
+</details>
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
 <div align="center">
 
-<a href="mailto:senthilvelanprabakaran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/senthilvelan-prabakaran-486051382/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/senthilvelanprabakaran-alt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:senthilvelanprabakaran@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/senthilvelan-prabakaran-486051382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/senthilvelanprabakaran-alt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:2563EB&height=120&section=footer"/>
-
-**⚡ "Turning data into decisions, and ideas into intelligent software." ⚡**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer"/>
 </div>
