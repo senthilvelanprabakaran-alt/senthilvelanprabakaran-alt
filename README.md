@@ -80,7 +80,7 @@ AI-powered Life Cycle Assessment platform for metal manufacturing, providing car
 
 ### 🤖 EON Chatbot
 Multilingual AI chatbot supporting natural language interaction across multiple languages, built on a lightweight, fast backend.
-`Python` · `Flask` · `HTML/CSS` · `JavaScript`
+`Python` · `Django` · `HTML/CSS` · `JavaScript`
 
 ### 🤟 ISL Project
 Real-time Indian Sign Language recognition system using computer vision and deep learning to improve accessibility.
