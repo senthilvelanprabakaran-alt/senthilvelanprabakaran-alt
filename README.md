@@ -24,12 +24,20 @@
 ```yaml
 role: AI/ML Engineer & Full-Stack Developer
 education: B.Tech - AI & Data Science, CARE Trichy (Graduating 2026)
-focus: [Computer Vision, Generative AI, NLP/RAG, Full-Stack Systems]
+focus: [Computer Vision, Generative AI, NLP/RAG, Cybersecurity ML, Full-Stack Systems]
 mission: "Turning ideas into intelligent, production-grade software"
 currently_exploring: Agentic AI & Retrieval-Augmented Generation
 ```
 
 I design and ship **end-to-end intelligent systems** — from training a model, to wiring up the backend, to shipping a polished web app. I like closing the gap between research-grade ML and real, usable products.
+
+<br/>
+
+## 🎯 Professional Summary
+
+Final-year AI & Data Science engineer who ships across the full stack — from model training to production deployment. My work spans three tracks: **computer vision** (CNN-based gesture and medical image classifiers), **applied cybersecurity ML** (LSTM/Markov-chain threat actor prediction, federated learning + GNN research for OT supply chains), and **full-stack platforms** (Flask/Django/JWT systems with real-time dashboards serving real users like farmers and learners). I'm currently deepening my work in **Agentic AI and Retrieval-Augmented Generation**, building multilingual, low-latency conversational systems on lightweight infrastructure. I care about production-readiness over demo-ware — clean auth, data validation, and interfaces people can actually use — and I'm looking for AI/ML engineering, computer vision, or full-stack roles where I can own a problem end-to-end.
+
+<br/>
 
 <div align="center">
 
@@ -57,79 +65,66 @@ flowchart LR
 
 <div align="center">
 
-**🔤 Languages**
+### 💻 Languages
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=3776AB&logo=python&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=ED8B00&logo=openjdk&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F7DF1E&logo=javascript&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=E34F26&logo=html5&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=1572B6&logo=css3&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>CSS3</b></sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css" />
 
-**🧠 AI · Machine Learning · Data**
+`Python` • `Java` • `JavaScript` • `HTML5` • `CSS3`
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=FF6F00&logo=tensorflow&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>TensorFlow</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=EE4C2C&logo=pytorch&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>PyTorch</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=5C3EE8&logo=opencv&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>OpenCV</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F7931E&logo=scikitlearn&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Scikit-Learn</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=150458&logo=pandas&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Pandas</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=013243&logo=numpy&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>NumPy</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F2C811&logo=powerbi&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>Power BI</b></sub></td>
-</tr>
-</table>
+<br/>
 
-**⚙️ Backend**
+### 🧠 AI / ML / Computer Vision
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=092E20&logo=django&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Django</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=flask&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Flask</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=6DB33F&logo=springboot&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Spring Boot</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=009688&logo=fastapi&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>FastAPI</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=339933&logo=nodedotjs&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Node.js</b></sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 
-**🗄️ Databases**
+`TensorFlow` • `PyTorch` • `OpenCV` • `Scikit-Learn`
+`Pandas` • `NumPy` • `Power BI`
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=4479A1&logo=mysql&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>MySQL</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=4169E1&logo=postgresql&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=003B57&logo=sqlite&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>SQLite</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=47A248&logo=mongodb&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=00684A&logo=mongodb&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>MongoDB Atlas</b></sub></td>
-</tr>
-</table>
+<br/>
 
-**☁️ Cloud & Data Platforms**
+### 🤖 Generative AI / LLM Tooling
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=FF9900&logo=amazonaws&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>AWS</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=4285F4&logo=googlecloud&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Google Cloud</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=0078D4&logo=microsoftazure&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Microsoft Azure</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=3FCF8E&logo=supabase&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Supabase</b></sub></td>
-</tr>
-</table>
+`LangChain` • `RAG` • `Groq` • `OpenRouter` • `Gemini` • `Ollama`
 
-**🎨 Frontend · Tools**
+<br/>
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=61DAFB&logo=react&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=7952B3&logo=bootstrap&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Bootstrap</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F24E1E&logo=figma&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Figma</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F05032&logo=git&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=2496ED&logo=docker&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=FCC624&logo=linux&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>Linux</b></sub></td>
-</tr>
-</table>
+### 🧪 Testing & Automation
+
+<img src="https://skillicons.dev/icons?i=selenium" />
+
+`Selenium`
+
+<br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,flask,spring,fastapi,nodejs" />
+
+`Django` • `Flask` • `Spring Boot` • `FastAPI` • `Node.js`
+
+<br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+
+`MySQL` • `PostgreSQL` • `SQLite` • `MongoDB` • `MongoDB Atlas`
+
+<br/>
+
+### ☁️ Cloud & Platforms
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,supabase" />
+
+`AWS` • `Google Cloud` • `Microsoft Azure` • `Supabase`
+
+<br/>
+
+### 🎨 Frontend · Tools
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,figma,git,docker,linux" />
+
+`React` • `Bootstrap` • `Figma` • `Git` • `Docker` • `Linux`
 
 </div>
 
@@ -139,6 +134,50 @@ flowchart LR
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### 🔐 TwinFed-OT
+**Federated Learning · GNN · Digital Twin Security**
+
+Self-originated final-year research direction combining Federated Learning, Graph Neural Networks, and Digital Twin simulation to detect threats across OT (Operational Technology) supply chains.
+
+`Federated Learning` `GNN` `Digital Twin` `Cybersecurity`
+
+- 🔹 Privacy-preserving federated threat detection across distributed OT nodes
+- 🔹 Graph-based modeling of supply chain dependencies
+- 🔹 Digital twin simulation for attack scenario testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Threat Actor Behavior Prediction
+**Sequential Modeling for Cyber Threat Intelligence**
+
+Foundational final-year project predicting threat actor behavior using LSTM networks and Markov chains, grounded in real-world threat intelligence data.
+
+`Python` `LSTM` `Markov Chains` `MITRE ATT&CK`
+
+- 🔹 Sequential attack-pattern prediction with LSTM
+- 🔹 State-transition modeling via Markov chains
+- 🔹 Trained on MITRE ATT&CK and NVD CVE datasets
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Vantage
+**Full-Stack Data Analytics Platform**
+
+Role-based analytics web app for importing, visualizing, and managing business data with secure authentication.
+
+`Flask` `JWT` `Chart.js` `PostgreSQL`
+
+- 🔹 Role-based access control (admin vs. employee)
+- 🔹 Multi-format import: CSV, XLSX, and PDF records
+- 🔹 Real-time Chart.js dashboards
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌱 LCA Metal
@@ -153,6 +192,8 @@ AI-powered carbon emission prediction & sustainability analytics for metal manuf
 - 🔹 Built-in data validation & QA
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💬 EON Multilingual Chatbot
@@ -167,8 +208,6 @@ Production-grade multilingual chatbot optimized for low-latency inference on lig
 - 🔹 Scalable conversation-context management
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤟 ISL Recognition System
@@ -183,6 +222,8 @@ Real-time CNN-based gesture recognition system built to improve accessibility fo
 - 🔹 Low-latency model inference
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🩺 SkinAI
@@ -197,8 +238,6 @@ CNN-based assistive diagnostic tool for automated skin disease classification fr
 - 🔹 Clinically relevant accuracy metrics
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌾 Mandi Vilai
@@ -213,6 +252,8 @@ Bilingual (Tamil/English) real-time crop price notification system built for far
 - 🔹 Responsive bilingual UI
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 Skill Learn
@@ -227,12 +268,13 @@ Gamified skill-development platform with weekly assessments and XP-based progres
 - 🔹 Custom assessment & evaluation framework
 
 </td>
+<td width="50%" valign="top">
+
+<sub>🎮 Also shipped: <b>Flappy Bird</b> — a Python game exploring custom game-loop & collision-detection architecture</sub>
+
+</td>
 </tr>
 </table>
-
-<div align="center">
-<sub>🎮 Also shipped: <b>Flappy Bird</b> — a Python game exploring custom game-loop & collision-detection architecture</sub>
-</div>
 
 <br/>
 
@@ -264,8 +306,11 @@ Gamified skill-development platform with weekly assessments and XP-based progres
 | Category | Skills |
 |---|---|
 | 🤖 **AI / ML** | Deep Learning, Computer Vision, NLP, Model Training, TensorFlow, PyTorch |
+| 🕸️ **Cybersecurity ML** | LSTM, Markov Chains, Federated Learning, GNNs, MITRE ATT&CK / CVE Data |
+| 🧩 **Generative AI** | LangChain, RAG, Groq, OpenRouter, Gemini, Ollama |
 | ⚙️ **Backend** | Django, Flask, Spring Boot, FastAPI, Node.js |
 | 🎨 **Frontend** | React, HTML5, CSS3, Bootstrap, Responsive Design |
+| 🧪 **Testing & Automation** | Selenium |
 | 🗄️ **Databases** | MySQL, PostgreSQL, SQLite, MongoDB, MongoDB Atlas |
 | ☁️ **Cloud** | AWS, Google Cloud, Microsoft Azure, Supabase |
 | 📈 **Data** | Pandas, NumPy, Matplotlib, Power BI |
