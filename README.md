@@ -61,11 +61,11 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" height="42"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/css3/1572B6" width="42" height="42"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=3776AB&logo=python&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=ED8B00&logo=openjdk&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F7DF1E&logo=javascript&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=E34F26&logo=html5&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=1572B6&logo=css3&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>CSS3</b></sub></td>
 </tr>
 </table>
 
@@ -73,13 +73,13 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42"/><br/><sub><b>TensorFlow</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="42" height="42"/><br/><sub><b>PyTorch</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="42" height="42"/><br/><sub><b>OpenCV</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42"/><br/><sub><b>Scikit-Learn</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42"/><br/><sub><b>Pandas</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42"/><br/><sub><b>NumPy</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42"/><br/><sub><b>Power BI</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=FF6F00&logo=tensorflow&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=EE4C2C&logo=pytorch&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=5C3EE8&logo=opencv&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>OpenCV</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F7931E&logo=scikitlearn&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Scikit-Learn</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=150458&logo=pandas&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Pandas</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=013243&logo=numpy&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>NumPy</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F2C811&logo=powerbi&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>Power BI</b></sub></td>
 </tr>
 </table>
 
@@ -87,11 +87,11 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/django/092E20" width="42" height="42"/><br/><sub><b>Django</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/flask/000000" width="42" height="42"/><br/><sub><b>Flask</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="42" height="42"/><br/><sub><b>Spring Boot</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42"/><br/><sub><b>FastAPI</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" height="42"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=092E20&logo=django&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Django</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=flask&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Flask</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=6DB33F&logo=springboot&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=009688&logo=fastapi&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=339933&logo=nodedotjs&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Node.js</b></sub></td>
 </tr>
 </table>
 
@@ -99,11 +99,11 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" height="42"/><br/><sub><b>MySQL</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/sqlite/003B57" width="42" height="42"/><br/><sub><b>SQLite</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" height="42"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/mongodb/00684A" width="42" height="42"/><br/><sub><b>MongoDB Atlas</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=4479A1&logo=mysql&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=4169E1&logo=postgresql&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=003B57&logo=sqlite&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=47A248&logo=mongodb&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=00684A&logo=mongodb&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>MongoDB Atlas</b></sub></td>
 </tr>
 </table>
 
@@ -111,10 +111,10 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="42" height="42"/><br/><sub><b>AWS</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="42" height="42"/><br/><sub><b>Google Cloud</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="42" height="42"/><br/><sub><b>Microsoft Azure</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="42" height="42"/><br/><sub><b>Supabase</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=FF9900&logo=amazonaws&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>AWS</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=4285F4&logo=googlecloud&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Google Cloud</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=0078D4&logo=microsoftazure&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Microsoft Azure</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=3FCF8E&logo=supabase&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Supabase</b></sub></td>
 </tr>
 </table>
 
@@ -122,12 +122,12 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" height="42"/><br/><sub><b>Bootstrap</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" height="42"/><br/><sub><b>Figma</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/linux/FCC624" width="42" height="42"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=61DAFB&logo=react&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=7952B3&logo=bootstrap&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F24E1E&logo=figma&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Figma</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=F05032&logo=git&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=2496ED&logo=docker&logoColor=white&style=for-the-badge" width="42"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/static/v1?label=&message=&color=FCC624&logo=linux&logoColor=black&style=for-the-badge" width="42"/><br/><sub><b>Linux</b></sub></td>
 </tr>
 </table>
 
